@@ -4,6 +4,7 @@ body {
 
 .carousel {
   position: relative;
+  margin-left: 37.5%;
   width: 398px;
   padding: 10px 40px;
   border: 1px solid #CCC;
